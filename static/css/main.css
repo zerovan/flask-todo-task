@@ -1,4 +1,13 @@
 body {
     font-family: sans-serif;
     font-size: 14px;
+    margin: 0;
+}
+.todo-table {
+    width: 500px;
+    text-align: center;
+}
+.wrapper {
+    width: 500px;
+    margin: auto;
 }
